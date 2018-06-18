@@ -1,0 +1,10 @@
+C:\Users\felix\Documents\GitHub\AndroidStudioProjects\TelerikAspNetCoreApp1\TelerikAspNetCoreApp1\bin\Debug\netcoreapp1.1\TelerikAspNetCoreApp1.deps.json
+C:\Users\felix\Documents\GitHub\AndroidStudioProjects\TelerikAspNetCoreApp1\TelerikAspNetCoreApp1\bin\Debug\netcoreapp1.1\TelerikAspNetCoreApp1.runtimeconfig.json
+C:\Users\felix\Documents\GitHub\AndroidStudioProjects\TelerikAspNetCoreApp1\TelerikAspNetCoreApp1\bin\Debug\netcoreapp1.1\TelerikAspNetCoreApp1.runtimeconfig.dev.json
+C:\Users\felix\Documents\GitHub\AndroidStudioProjects\TelerikAspNetCoreApp1\TelerikAspNetCoreApp1\bin\Debug\netcoreapp1.1\TelerikAspNetCoreApp1.dll
+C:\Users\felix\Documents\GitHub\AndroidStudioProjects\TelerikAspNetCoreApp1\TelerikAspNetCoreApp1\bin\Debug\netcoreapp1.1\TelerikAspNetCoreApp1.pdb
+C:\Users\felix\Documents\GitHub\AndroidStudioProjects\TelerikAspNetCoreApp1\TelerikAspNetCoreApp1\obj\Debug\netcoreapp1.1\TelerikAspNetCoreApp1.csprojResolveAssemblyReference.cache
+C:\Users\felix\Documents\GitHub\AndroidStudioProjects\TelerikAspNetCoreApp1\TelerikAspNetCoreApp1\obj\Debug\netcoreapp1.1\TelerikAspNetCoreApp1.csproj.CoreCompileInputs.cache
+C:\Users\felix\Documents\GitHub\AndroidStudioProjects\TelerikAspNetCoreApp1\TelerikAspNetCoreApp1\obj\Debug\netcoreapp1.1\TelerikAspNetCoreApp1.AssemblyInfo.cs
+C:\Users\felix\Documents\GitHub\AndroidStudioProjects\TelerikAspNetCoreApp1\TelerikAspNetCoreApp1\obj\Debug\netcoreapp1.1\TelerikAspNetCoreApp1.dll
+C:\Users\felix\Documents\GitHub\AndroidStudioProjects\TelerikAspNetCoreApp1\TelerikAspNetCoreApp1\obj\Debug\netcoreapp1.1\TelerikAspNetCoreApp1.pdb
